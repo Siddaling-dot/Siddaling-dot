@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddaling-dot
-- 👀 I’m Passionate FrontEnd Developer
+- 👀 I’m Passionate FullStack Developer
 - 🌱 I’m Currently Intern @Kodnest
-- 💞️ I’m Actively looking for FrontEnd Developer 
+- 💞️ I’m Actively looking for FullStack Developer 
 - 📫 siddalingshahu1857@gmail.com
 - 😄 https://www.linkedin.com/in/siddaling-shahu-4a6692213
 - ⚡ Fun fact: Iam Funny
